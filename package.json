@@ -1,5 +1,6 @@
 {
-  "name": "codemirror",
+  "name": "codemirroe",
+  "exportName": "codemirroe",
   "version": "5.53.2",
   "main": "lib/codemirror.js",
   "style": "lib/codemirror.css",
@@ -36,7 +37,7 @@
   "homepage": "https://codemirror.net",
   "repository": {
     "type": "git",
-    "url": "https://github.com/codemirror/CodeMirror.git"
+    "url": "https://github.com/haedev/codemirror.git"
   },
   "jspm": {
     "directories": {},
